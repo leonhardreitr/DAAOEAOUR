@@ -1,0 +1,15 @@
+---
+title: Chapter 1
+editor_options: 
+  chunk_output_type: console
+    
+---
+
+```{r}
+cat(
+  "Not much code in this Chapter"
+)
+```
+
+
+
